@@ -21,7 +21,7 @@ I love exploring vulnerabilities, securing systems, and learning new attack tech
 ---
 
 ## 📈 GitHub Stats
-![Malik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Malik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalikDeshan&show_icons=true&theme=radical)
 
 ---
 
