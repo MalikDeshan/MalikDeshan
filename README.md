@@ -1,7 +1,7 @@
 # 🔒 Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/MalikDeshan?style=social)
+![GitHub stars](https://img.shields.io/github/stars/MalikDeshan?style=social)
 
 ## 👋 About Me
 I’m Malik Deshan, a final-year Computer Security student passionate about:
@@ -16,7 +16,7 @@ I love exploring vulnerabilities, securing systems, and learning new attack tech
 ## 🛠 Skills & Tools
 💻 **Languages:** Python, JavaScript, Bash  
 🛡️ **Security Tools:** Nmap, Wireshark, Burp Suite, Metasploit, Snort  
-🔐 **Expertise:** Network Security, Threat Analysis, Red Teaming, SIEM  
+🔐 **Expertise:** Network Security, Threat Analysis, Red Teaming, SIEM, Ethical Hacking, Penetration testing  
 
 ---
 
